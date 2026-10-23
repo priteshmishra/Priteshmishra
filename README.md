@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**priteshmishra/Priteshmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Pritesh Mishra 👋
 
-Here are some ideas to get you started:
+### Biotechnology Student | Aspiring Bioinformatics Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a first-year B.Tech Biotechnology student at Lovely Professional University (LPU), India.
+
+I'm interested in combining biology, programming, and data analysis to understand biological systems and explore computational biology.
+
+## 🧬 About Me
+
+- 🎓 B.Tech Biotechnology student at LPU
+- 🔬 Interested in Bioinformatics and Computational Biology
+- 💻 Currently learning Python and GitHub
+- 🧪 Exploring molecular biology and biological data analysis
+- 🌐 Working on BIOVERSE, an interactive science-inspired portfolio
+- 🎯 Goal: Build computational skills for biological research
+
+## 🛠️ Currently Learning
+
+- Python fundamentals
+- Biotechnology and molecular biology
+- Git and GitHub
+- Bioinformatics basics
+- Scientific research and data analysis
+
+## 🚀 Projects
+
+### BIOVERSE
+An interactive, science-inspired portfolio project exploring biotechnology and computational biology.
+
+Status: In development.
+
+I will add more projects as I gain experience and build practical skills.
+
+## 📚 My Learning Roadmap
+
+- Learn Python programming
+- Understand DNA and protein sequences
+- Explore biological databases
+- Build a DNA sequence analysis tool
+- Document experiments and coding projects
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/ YOUR_USERNAME
+- LinkedIn: Add your LinkedIn profile URL
+- Portfolio: Add your website URL when published
+
+---
+
+*Learning biology, one line of code at a time. 🧬*
