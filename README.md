@@ -43,9 +43,9 @@ I will add more projects as I gain experience and build practical skills.
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/ YOUR_USERNAME
-- LinkedIn: Add your LinkedIn profile URL
-- Portfolio: Add your website URL when published
+- GitHub: https://github.com/priteshmishra
+- LinkedIn: https://in.linkedin.com/in/pritesh-kumar-mishra-4b109a373
+- Portfolio: https://myportfolio-beige-beta-33.vercel.app/
 
 ---
 
